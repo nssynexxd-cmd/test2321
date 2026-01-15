@@ -1,4 +1,5 @@
 0.0.0.0
 127.0.0.1
-play.violetnetwork.com.tr
+45.143.4.65
 localhost
+
