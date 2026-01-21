@@ -5,5 +5,3 @@ localhost
 play.loremc.com.tr
 play.loremc.xyz
 play.lernixnw.com.tr
-
-
