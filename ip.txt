@@ -2,5 +2,8 @@
 127.0.0.1
 45.94.169.223
 localhost
+play.loremc.com.tr
+play.loremc.xyz
+play.lernixnw.com.tr
 
 
