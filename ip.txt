@@ -1,3 +1,2 @@
-0.0.0.0
-127.0.0.1
-localhost
+45.94.169.223
+play.auranw.com.tr
